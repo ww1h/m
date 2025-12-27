@@ -9,19 +9,21 @@ https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1,Rete 4
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:-1 Canale 5
+#EXTINF:-1,Canale 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-#EXTINF:-1  Italia 1
+#EXTINF:-1,Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:-1 La7
+#EXTINF:-1,La7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-#EXTINF:-1 Sky Tg24
+#EXTINF:-1,Sky Tg24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1766859742~exp=1766860042~acl=/*~hmac=e66d10f832215d9dcca1535a8d0ba3fb8902b6262ca54b31c99c6eafc1928c28&CMCD=cid%3D2%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%229201d3fe-5edb-43e0-8ed1-3a117678a27f%22%2Csu
-#EXTINF:-1 Cine34
+#EXTINF:-1,Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1,Tv8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1,Cine34
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTINF:-1 La7 Cinema
+#EXTINF:-1,La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:-1 Sportitalia
+#EXTINF:-1,Sportitalia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
